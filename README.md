@@ -20,4 +20,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/saumyap48/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saumyap48/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saumyap48/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/saumyap48/leetcode/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/saumyap48/leetcode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
