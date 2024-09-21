@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/saumyap48/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/saumyap48/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saumyap48/leetcode/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saumyap48/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saumyap48/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -32,9 +33,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/saumyap48/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saumyap48/leetcode/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/saumyap48/leetcode/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/saumyap48/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
