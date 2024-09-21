@@ -1,21 +1,22 @@
 class Solution {
 public:
     int matrixSum(vector<vector<int>>& nums) {
-        int n=nums.size();
-        int m=nums[0].size();
-        for(int i=0;i<n;i++)
-        {
-            sort(nums[i].begin(),nums[i].end(),greater<int>());
+        vector<vector<int>> temp;
+        for(int i = 0; i < nums.size(); i++){   
+            sort(nums[i].begin(), nums[i].end());
+            temp.push_back(nums[i]);
         }
-        int ans=0,temp=0;
-        for(int i=0;i<m;i++)
-        {  temp=0;
-            for(int j=0;j<n;j++)
-            {
-                temp=max(temp,nums[j][i]);
+        int res = 0; 
+        int m = temp.size();
+        int  n = temp[0].size();
+        
+        for(int i = 0; i < n; i++){
+            int maxi = INT_MIN;
+            for(int j = 0; j < m; j++){
+                maxi = max(maxi, temp[j][i]);
             }
-         ans+=temp;
+            res += maxi;
         }
-        return ans;
+        return res;
     }
 };
