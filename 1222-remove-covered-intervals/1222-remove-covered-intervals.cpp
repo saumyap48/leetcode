@@ -14,9 +14,9 @@ static bool com(const vector<int>& a, const vector<int>& b) {
                 continue;
             } else {
                 count++;
-                j = i;
+                j=i;
             }
         }
-        return count + 1;
+        return count+1 ;
     }
 };
