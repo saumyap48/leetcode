@@ -169,5 +169,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/saumyap48/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/saumyap48/leetcode/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
