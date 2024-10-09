@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saumyap48/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/saumyap48/leetcode/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saumyap48/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/saumyap48/leetcode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/saumyap48/leetcode/tree/master/0274-h-index) |
 | [0447-number-of-boomerangs](https://github.com/saumyap48/leetcode/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/saumyap48/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -165,4 +166,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saumyap48/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/saumyap48/leetcode/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
