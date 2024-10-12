@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/saumyap48/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/saumyap48/leetcode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/saumyap48/leetcode/tree/master/0274-h-index) |
+| [0335-self-crossing](https://github.com/saumyap48/leetcode/tree/master/0335-self-crossing) |
 | [0447-number-of-boomerangs](https://github.com/saumyap48/leetcode/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/saumyap48/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/saumyap48/leetcode/tree/master/0454-4sum-ii) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/saumyap48/leetcode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/saumyap48/leetcode/tree/master/0231-power-of-two) |
+| [0335-self-crossing](https://github.com/saumyap48/leetcode/tree/master/0335-self-crossing) |
 | [0447-number-of-boomerangs](https://github.com/saumyap48/leetcode/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/saumyap48/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/saumyap48/leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
@@ -176,4 +178,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0201-bitwise-and-of-numbers-range](https://github.com/saumyap48/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/saumyap48/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/saumyap48/leetcode/tree/master/0260-single-number-iii) |
+## Geometry
+|  |
+| ------- |
+| [0335-self-crossing](https://github.com/saumyap48/leetcode/tree/master/0335-self-crossing) |
 <!---LeetCode Topics End-->
