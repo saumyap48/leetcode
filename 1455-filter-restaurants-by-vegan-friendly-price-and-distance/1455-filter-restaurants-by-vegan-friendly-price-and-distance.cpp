@@ -1,35 +1,24 @@
 class Solution {
 public:
-    vector<int> filterRestaurants(vector<vector<int>>& restaurants, int veganFriendly, int maxPrice, int maxDistance) {
-        vector<vector<int>> filtered;
-        for (int i = 0; i < restaurants.size(); i++) {
-            int id = restaurants[i][0];
-            int rating = restaurants[i][1];
-            int isVegan = restaurants[i][2];
-            int price = restaurants[i][3];
-            int distance = restaurants[i][4];
-            if (veganFriendly == 1 && isVegan != 1) {
-                continue;  
-            }
-            if (price > maxPrice || distance > maxDistance) {
-                continue;  
-            }
-            filtered.push_back(restaurants[i]);
+    vector<int> filterRestaurants(vector<vector<int>>& restaurants, int    veganFriendly, int maxPrice, int maxDistance) {
+         vector<vector<int>>arr;
+         vector<int>ans;
+        for(int i=0; i<restaurants.size(); i++){
+arr.push_back({restaurants[i][1], restaurants[i][0], restaurants[i][2], restaurants[i][3], restaurants[i][4]});
         }
-        for (int i = 0; i < filtered.size(); i++) {
-            for (int j = i + 1; j < filtered.size(); j++) {
-                if (filtered[i][1] < filtered[j][1] || 
-                   (filtered[i][1] == filtered[j][1] && filtered[i][0] < filtered[j][0])) {
-                    swap(filtered[i], filtered[j]);
-                }
+        sort(arr.begin(), arr.end());
+        
+        if(veganFriendly==1){
+            for(int i=0; i<arr.size(); i++){
+       if(arr[i][2]==1 && arr[i][3]<=maxPrice && arr[i][4]<=maxDistance )    ans.push_back(arr[i][1]);
             }
-        }
-        vector<int> result;
-        for (int i = 0; i < filtered.size(); i++) {
-            result.push_back(filtered[i][0]);
+        }else{
+            for(int i=0; i<arr.size(); i++){
+                if( arr[i][3]<=maxPrice && arr[i][4]<=maxDistance )ans.push_back(arr[i][1]);
+            }
         }
 
-        return result;
+        reverse(ans.begin(), ans.end());        
+        return ans;
     }
 };
-
