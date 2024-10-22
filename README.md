@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1078-remove-outermost-parentheses](https://github.com/saumyap48/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/saumyap48/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/saumyap48/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/saumyap48/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Stack
 |  |
 | ------- |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/saumyap48/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/saumyap48/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/saumyap48/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/saumyap48/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Trie
 |  |
 | ------- |
