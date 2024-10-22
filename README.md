@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/saumyap48/leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/saumyap48/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1078-remove-outermost-parentheses](https://github.com/saumyap48/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1205-defanging-an-ip-address](https://github.com/saumyap48/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/saumyap48/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
