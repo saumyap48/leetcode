@@ -8,7 +8,7 @@ public:
         for(int i=0; i<sentence.size(); i++){
           alpha[sentence[i]-'a']=1;
         }
-        for(int i=0; i<26; i++){
+        for(int i=0; i<=25; i++){
             if(alpha[i]==0)
             return 0;
         }
