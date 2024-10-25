@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saumyap48/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/saumyap48/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saumyap48/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/saumyap48/leetcode/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/saumyap48/leetcode/tree/master/0076-minimum-window-substring) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/saumyap48/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saumyap48/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/saumyap48/leetcode/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/saumyap48/leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saumyap48/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/saumyap48/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saumyap48/leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/saumyap48/leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/saumyap48/leetcode/tree/master/0073-set-matrix-zeroes) |
