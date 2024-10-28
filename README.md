@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/saumyap48/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/saumyap48/leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saumyap48/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/saumyap48/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/saumyap48/leetcode/tree/master/0046-permutations) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/saumyap48/leetcode/tree/master/0015-3sum) |
 | [0274-h-index](https://github.com/saumyap48/leetcode/tree/master/0274-h-index) |
 | [1222-remove-covered-intervals](https://github.com/saumyap48/leetcode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/saumyap48/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/saumyap48/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/saumyap48/leetcode/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saumyap48/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/saumyap48/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/saumyap48/leetcode/tree/master/0344-reverse-string) |
