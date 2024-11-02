@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/saumyap48/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saumyap48/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/saumyap48/leetcode/tree/master/1970-sorting-the-sentence) |
+| [2580-circular-sentence](https://github.com/saumyap48/leetcode/tree/master/2580-circular-sentence) |
 | [2887-sort-vowels-in-a-string](https://github.com/saumyap48/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Stack
 |  |
