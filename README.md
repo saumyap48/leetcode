@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/saumyap48/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/saumyap48/leetcode/tree/master/0454-4sum-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saumyap48/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0624-maximum-distance-in-arrays](https://github.com/saumyap48/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0665-non-decreasing-array](https://github.com/saumyap48/leetcode/tree/master/0665-non-decreasing-array) |
 | [0790-global-and-local-inversions](https://github.com/saumyap48/leetcode/tree/master/0790-global-and-local-inversions) |
 | [0805-escape-the-ghosts](https://github.com/saumyap48/leetcode/tree/master/0805-escape-the-ghosts) |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/saumyap48/leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/saumyap48/leetcode/tree/master/0409-longest-palindrome) |
+| [0624-maximum-distance-in-arrays](https://github.com/saumyap48/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/saumyap48/leetcode/tree/master/0670-maximum-swap) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saumyap48/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
