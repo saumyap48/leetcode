@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1970-sorting-the-sentence](https://github.com/saumyap48/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2580-circular-sentence](https://github.com/saumyap48/leetcode/tree/master/2580-circular-sentence) |
 | [2887-sort-vowels-in-a-string](https://github.com/saumyap48/leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/saumyap48/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/saumyap48/leetcode/tree/master/3451-string-compression-iii) |
 ## Stack
 |  |
