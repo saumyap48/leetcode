@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/saumyap48/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saumyap48/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2728-sum-in-a-matrix](https://github.com/saumyap48/leetcode/tree/master/2728-sum-in-a-matrix) |
+| [3291-find-if-array-can-be-sorted](https://github.com/saumyap48/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Backtracking
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1970-sorting-the-sentence](https://github.com/saumyap48/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2728-sum-in-a-matrix](https://github.com/saumyap48/leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2887-sort-vowels-in-a-string](https://github.com/saumyap48/leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3291-find-if-array-can-be-sorted](https://github.com/saumyap48/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0201-bitwise-and-of-numbers-range](https://github.com/saumyap48/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/saumyap48/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/saumyap48/leetcode/tree/master/0260-single-number-iii) |
+| [3291-find-if-array-can-be-sorted](https://github.com/saumyap48/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Geometry
 |  |
 | ------- |
