@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/saumyap48/leetcode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/saumyap48/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saumyap48/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/saumyap48/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/saumyap48/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2728-sum-in-a-matrix](https://github.com/saumyap48/leetcode/tree/master/2728-sum-in-a-matrix) |
 | [3291-find-if-array-can-be-sorted](https://github.com/saumyap48/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/saumyap48/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/saumyap48/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saumyap48/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/saumyap48/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 ## String
 |  |
 | ------- |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/saumyap48/leetcode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saumyap48/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-sorting-the-sentence](https://github.com/saumyap48/leetcode/tree/master/1970-sorting-the-sentence) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/saumyap48/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2728-sum-in-a-matrix](https://github.com/saumyap48/leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2887-sort-vowels-in-a-string](https://github.com/saumyap48/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/saumyap48/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
