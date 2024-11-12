@@ -1,7 +1,6 @@
 class Solution {
 public:
     int lastRemaining(int n) {
-        if(n==1) return 1;
         int current_size=1;
         int remaining=n;
         int ans=1;
