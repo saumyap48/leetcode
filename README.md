@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/saumyap48/leetcode/tree/master/0670-maximum-swap) |
 | [0790-global-and-local-inversions](https://github.com/saumyap48/leetcode/tree/master/0790-global-and-local-inversions) |
 | [0805-escape-the-ghosts](https://github.com/saumyap48/leetcode/tree/master/0805-escape-the-ghosts) |
+| [1013-fibonacci-number](https://github.com/saumyap48/leetcode/tree/master/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/saumyap48/leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/saumyap48/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Divide and Conquer
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/saumyap48/leetcode/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/saumyap48/leetcode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/saumyap48/leetcode/tree/master/0394-decode-string) |
+| [1013-fibonacci-number](https://github.com/saumyap48/leetcode/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -262,4 +264,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saumyap48/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/saumyap48/leetcode/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/saumyap48/leetcode/tree/master/0812-rotate-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/saumyap48/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/saumyap48/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
