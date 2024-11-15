@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/saumyap48/leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/saumyap48/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/saumyap48/leetcode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/saumyap48/leetcode/tree/master/0216-combination-sum-iii) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/saumyap48/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saumyap48/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/saumyap48/leetcode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/saumyap48/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saumyap48/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/saumyap48/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/saumyap48/leetcode/tree/master/0125-valid-palindrome) |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/saumyap48/leetcode/tree/master/0022-generate-parentheses) |
 | [1013-fibonacci-number](https://github.com/saumyap48/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
