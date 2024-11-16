@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/saumyap48/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/saumyap48/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/saumyap48/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/saumyap48/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/saumyap48/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saumyap48/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/saumyap48/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/saumyap48/leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/saumyap48/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/saumyap48/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/saumyap48/leetcode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/saumyap48/leetcode/tree/master/0216-combination-sum-iii) |
 ## Binary Search
