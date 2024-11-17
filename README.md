@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0172-factorial-trailing-zeroes](https://github.com/saumyap48/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/saumyap48/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/saumyap48/leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/saumyap48/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/saumyap48/leetcode/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/saumyap48/leetcode/tree/master/0335-self-crossing) |
 | [0390-elimination-game](https://github.com/saumyap48/leetcode/tree/master/0390-elimination-game) |
