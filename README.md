@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0447-number-of-boomerangs](https://github.com/saumyap48/leetcode/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/saumyap48/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/saumyap48/leetcode/tree/master/0454-4sum-ii) |
+| [0503-next-greater-element-ii](https://github.com/saumyap48/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saumyap48/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/saumyap48/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0665-non-decreasing-array](https://github.com/saumyap48/leetcode/tree/master/0665-non-decreasing-array) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/saumyap48/leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/saumyap48/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/saumyap48/leetcode/tree/master/0394-decode-string) |
+| [0503-next-greater-element-ii](https://github.com/saumyap48/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0874-backspace-string-compare](https://github.com/saumyap48/leetcode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saumyap48/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/saumyap48/leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -319,4 +321,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/saumyap48/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saumyap48/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/saumyap48/leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/saumyap48/leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
