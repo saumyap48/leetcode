@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/saumyap48/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/saumyap48/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/saumyap48/leetcode/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/saumyap48/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/saumyap48/leetcode/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/saumyap48/leetcode/tree/master/0335-self-crossing) |
 | [0390-elimination-game](https://github.com/saumyap48/leetcode/tree/master/0390-elimination-game) |
@@ -343,4 +344,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/saumyap48/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/saumyap48/leetcode/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/saumyap48/leetcode/tree/master/0503-next-greater-element-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/saumyap48/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/saumyap48/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
