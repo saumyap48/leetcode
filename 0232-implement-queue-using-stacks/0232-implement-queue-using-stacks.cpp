@@ -1,7 +1,7 @@
 class MyQueue {
 public:
-    stack<int>s1;
-    stack<int>s2;
+    stack<int>s1;//push
+    stack<int>s2;//pop
     MyQueue() {
         
     }
