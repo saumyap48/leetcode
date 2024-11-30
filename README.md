@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/saumyap48/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saumyap48/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/saumyap48/leetcode/tree/master/0085-maximal-rectangle) |
+| [0225-implement-stack-using-queues](https://github.com/saumyap48/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/saumyap48/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/saumyap48/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/saumyap48/leetcode/tree/master/0394-decode-string) |
@@ -358,10 +359,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/saumyap48/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/saumyap48/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [2195-time-needed-to-buy-tickets](https://github.com/saumyap48/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/saumyap48/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/saumyap48/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
