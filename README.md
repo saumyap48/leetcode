@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/saumyap48/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/saumyap48/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3451-string-compression-iii](https://github.com/saumyap48/leetcode/tree/master/3451-string-compression-iii) |
+| [3636-check-balanced-string](https://github.com/saumyap48/leetcode/tree/master/3636-check-balanced-string) |
 ## Stack
 |  |
 | ------- |
