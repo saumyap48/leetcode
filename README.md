@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2728-sum-in-a-matrix](https://github.com/saumyap48/leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2868-continuous-subarrays](https://github.com/saumyap48/leetcode/tree/master/2868-continuous-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/saumyap48/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saumyap48/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/saumyap48/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/saumyap48/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2728-sum-in-a-matrix](https://github.com/saumyap48/leetcode/tree/master/2728-sum-in-a-matrix) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saumyap48/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/saumyap48/leetcode/tree/master/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/saumyap48/leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/saumyap48/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saumyap48/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -216,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2692-take-gifts-from-the-richest-pile](https://github.com/saumyap48/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2728-sum-in-a-matrix](https://github.com/saumyap48/leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2868-continuous-subarrays](https://github.com/saumyap48/leetcode/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saumyap48/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
