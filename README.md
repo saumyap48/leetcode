@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/saumyap48/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0665-non-decreasing-array](https://github.com/saumyap48/leetcode/tree/master/0665-non-decreasing-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/saumyap48/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0780-max-chunks-to-make-sorted](https://github.com/saumyap48/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0790-global-and-local-inversions](https://github.com/saumyap48/leetcode/tree/master/0790-global-and-local-inversions) |
 | [0805-escape-the-ghosts](https://github.com/saumyap48/leetcode/tree/master/0805-escape-the-ghosts) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/saumyap48/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/saumyap48/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/saumyap48/leetcode/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/saumyap48/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/saumyap48/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/saumyap48/leetcode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saumyap48/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/saumyap48/leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/saumyap48/leetcode/tree/master/0015-3sum) |
 | [0274-h-index](https://github.com/saumyap48/leetcode/tree/master/0274-h-index) |
+| [0780-max-chunks-to-make-sorted](https://github.com/saumyap48/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1222-remove-covered-intervals](https://github.com/saumyap48/leetcode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/saumyap48/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/saumyap48/leetcode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
@@ -340,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/saumyap48/leetcode/tree/master/0409-longest-palindrome) |
 | [0624-maximum-distance-in-arrays](https://github.com/saumyap48/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/saumyap48/leetcode/tree/master/0670-maximum-swap) |
+| [0780-max-chunks-to-make-sorted](https://github.com/saumyap48/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saumyap48/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saumyap48/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2300-construct-string-with-repeat-limit](https://github.com/saumyap48/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -399,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/saumyap48/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/saumyap48/leetcode/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/saumyap48/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/saumyap48/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/saumyap48/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Brainteaser
 |  |
