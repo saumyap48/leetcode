@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0447-number-of-boomerangs](https://github.com/saumyap48/leetcode/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/saumyap48/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/saumyap48/leetcode/tree/master/0454-4sum-ii) |
+| [0494-target-sum](https://github.com/saumyap48/leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/saumyap48/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saumyap48/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/saumyap48/leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/saumyap48/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/saumyap48/leetcode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/saumyap48/leetcode/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/saumyap48/leetcode/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -390,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/saumyap48/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saumyap48/leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/saumyap48/leetcode/tree/master/0085-maximal-rectangle) |
+| [0494-target-sum](https://github.com/saumyap48/leetcode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/saumyap48/leetcode/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/saumyap48/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
