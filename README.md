@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/saumyap48/leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/saumyap48/leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/saumyap48/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/saumyap48/leetcode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/saumyap48/leetcode/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/saumyap48/leetcode/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/saumyap48/leetcode/tree/master/0812-rotate-string) |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saumyap48/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/saumyap48/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/saumyap48/leetcode/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/saumyap48/leetcode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/saumyap48/leetcode/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/saumyap48/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/saumyap48/leetcode/tree/master/0908-middle-of-the-linked-list) |
