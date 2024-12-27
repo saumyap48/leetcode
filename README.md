@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1028-interval-list-intersections](https://github.com/saumyap48/leetcode/tree/master/1028-interval-list-intersections) |
 | [1034-subarrays-with-k-different-integers](https://github.com/saumyap48/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/saumyap48/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1063-best-sightseeing-pair](https://github.com/saumyap48/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1222-remove-covered-intervals](https://github.com/saumyap48/leetcode/tree/master/1222-remove-covered-intervals) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/saumyap48/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/saumyap48/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/saumyap48/leetcode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/saumyap48/leetcode/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/saumyap48/leetcode/tree/master/1013-fibonacci-number) |
+| [1063-best-sightseeing-pair](https://github.com/saumyap48/leetcode/tree/master/1063-best-sightseeing-pair) |
 ## Memoization
 |  |
 | ------- |
