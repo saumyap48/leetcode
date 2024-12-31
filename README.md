@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/saumyap48/leetcode/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saumyap48/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saumyap48/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/saumyap48/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/saumyap48/leetcode/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/saumyap48/leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/saumyap48/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saumyap48/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saumyap48/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saumyap48/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/saumyap48/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saumyap48/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saumyap48/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/saumyap48/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -333,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saumyap48/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/saumyap48/leetcode/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/saumyap48/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/saumyap48/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/saumyap48/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/saumyap48/leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -348,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/saumyap48/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/saumyap48/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0966-binary-subarrays-with-sum](https://github.com/saumyap48/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/saumyap48/leetcode/tree/master/1046-max-consecutive-ones-iii) |
