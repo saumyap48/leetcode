@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/saumyap48/leetcode/tree/master/2868-continuous-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/saumyap48/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saumyap48/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3644-minimum-positive-sum-subarray](https://github.com/saumyap48/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saumyap48/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2868-continuous-subarrays](https://github.com/saumyap48/leetcode/tree/master/2868-continuous-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/saumyap48/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3644-minimum-positive-sum-subarray](https://github.com/saumyap48/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -358,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/saumyap48/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/saumyap48/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saumyap48/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3644-minimum-positive-sum-subarray](https://github.com/saumyap48/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Counting Sort
 |  |
 | ------- |
