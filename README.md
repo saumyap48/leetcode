@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1205-defanging-an-ip-address](https://github.com/saumyap48/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/saumyap48/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/saumyap48/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/saumyap48/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/saumyap48/leetcode/tree/master/1542-consecutive-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/saumyap48/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/saumyap48/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -358,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/saumyap48/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/saumyap48/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/saumyap48/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/saumyap48/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/saumyap48/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saumyap48/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3644-minimum-positive-sum-subarray](https://github.com/saumyap48/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
