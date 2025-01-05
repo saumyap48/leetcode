@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/saumyap48/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/saumyap48/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/saumyap48/leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/saumyap48/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saumyap48/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/saumyap48/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/saumyap48/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1970-sorting-the-sentence](https://github.com/saumyap48/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/saumyap48/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/saumyap48/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2465-shifting-letters-ii](https://github.com/saumyap48/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/saumyap48/leetcode/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/saumyap48/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2887-sort-vowels-in-a-string](https://github.com/saumyap48/leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -366,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/saumyap48/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saumyap48/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2358-number-of-ways-to-split-array](https://github.com/saumyap48/leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/saumyap48/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/saumyap48/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3644-minimum-positive-sum-subarray](https://github.com/saumyap48/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Counting Sort
