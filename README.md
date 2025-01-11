@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1205-defanging-an-ip-address](https://github.com/saumyap48/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/saumyap48/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/saumyap48/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1502-construct-k-palindrome-strings](https://github.com/saumyap48/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/saumyap48/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/saumyap48/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/saumyap48/leetcode/tree/master/1542-consecutive-characters) |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/saumyap48/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/saumyap48/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/saumyap48/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-construct-k-palindrome-strings](https://github.com/saumyap48/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1848-sum-of-unique-elements](https://github.com/saumyap48/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/saumyap48/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saumyap48/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -389,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0274-h-index](https://github.com/saumyap48/leetcode/tree/master/0274-h-index) |
 | [1034-subarrays-with-k-different-integers](https://github.com/saumyap48/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1502-construct-k-palindrome-strings](https://github.com/saumyap48/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1848-sum-of-unique-elements](https://github.com/saumyap48/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/saumyap48/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/saumyap48/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -403,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/saumyap48/leetcode/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/saumyap48/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saumyap48/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1502-construct-k-palindrome-strings](https://github.com/saumyap48/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saumyap48/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2300-construct-string-with-repeat-limit](https://github.com/saumyap48/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/saumyap48/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
