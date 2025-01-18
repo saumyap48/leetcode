@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/saumyap48/leetcode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/saumyap48/leetcode/tree/master/0274-h-index) |
 | [0335-self-crossing](https://github.com/saumyap48/leetcode/tree/master/0335-self-crossing) |
+| [0410-split-array-largest-sum](https://github.com/saumyap48/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0447-number-of-boomerangs](https://github.com/saumyap48/leetcode/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/saumyap48/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/saumyap48/leetcode/tree/master/0454-4sum-ii) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saumyap48/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/saumyap48/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saumyap48/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0410-split-array-largest-sum](https://github.com/saumyap48/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saumyap48/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/saumyap48/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/saumyap48/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -378,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/saumyap48/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/saumyap48/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/saumyap48/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/saumyap48/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/saumyap48/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/saumyap48/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -405,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/saumyap48/leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/saumyap48/leetcode/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/saumyap48/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/saumyap48/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/saumyap48/leetcode/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/saumyap48/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -450,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/saumyap48/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saumyap48/leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/saumyap48/leetcode/tree/master/0085-maximal-rectangle) |
+| [0410-split-array-largest-sum](https://github.com/saumyap48/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/saumyap48/leetcode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/saumyap48/leetcode/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/saumyap48/leetcode/tree/master/1013-fibonacci-number) |
