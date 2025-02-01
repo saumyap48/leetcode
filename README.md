@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saumyap48/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saumyap48/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/saumyap48/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/saumyap48/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/saumyap48/leetcode/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/saumyap48/leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/saumyap48/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -254,11 +255,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/saumyap48/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saumyap48/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/saumyap48/leetcode/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/saumyap48/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/saumyap48/leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/saumyap48/leetcode/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/saumyap48/leetcode/tree/master/0414-third-maximum-number) |
@@ -278,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/saumyap48/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/saumyap48/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/saumyap48/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2728-sum-in-a-matrix](https://github.com/saumyap48/leetcode/tree/master/2728-sum-in-a-matrix) |
@@ -542,4 +546,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/saumyap48/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/saumyap48/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
