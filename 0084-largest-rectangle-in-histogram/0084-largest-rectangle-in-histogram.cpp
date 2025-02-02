@@ -1,35 +1,70 @@
 class Solution {
 public:
-    int largestRectangleArea(vector<int>& heights) {
-        int n=heights.size();
-        vector<int>Right(n);
-        vector<int>Left(n);
-        stack<int>st;
-        for(int i=0; i<n; i++){
-            while(!st.empty() && heights[st.top()]>heights[i]){
-            Right[st.top()]=i;
-            st.pop();
-        }
-        st.push(i);
-        }
-        while(!st.empty()){
-            Right[st.top()]=n;
-            st.pop();
-        }
-        for(int i=n-1; i>=0; i--){
-            while(!st.empty() && heights[st.top()]>heights[i]){
-                Left[st.top()]=i;
-                st.pop();
+    vector<long> NearestSmallLeft(vector<int>& arr) {
+        int n = arr.size();
+        vector<long> left;
+        stack<pair<int, int>> s;
+        int pseudoindex = -1;
+
+        for (int i = 0; i < n; i++) {
+            if (s.size() == 0) {
+                left.push_back(pseudoindex);
             }
-            st.push(i);
+            else if (s.size() > 0 && s.top().first < arr[i]) {
+                left.push_back(s.top().second);
+            }
+            else if (s.size() > 0 && s.top().first >= arr[i]) {
+                while (s.size() > 0 && s.top().first >= arr[i]) {
+                    s.pop();
+                }
+                if (s.size() == 0) {
+                    left.push_back(pseudoindex);
+                } else {
+                    left.push_back(s.top().second);
+                }
+            }
+            s.push({arr[i], i});
         }
-        while(!st.empty()){
-            Left[st.top()]=-1;
-            st.pop();
+        return left;
+    }
+
+    vector<long> NearestSmallRight(vector<int>& arr) {
+        int n = arr.size();
+        vector<long> right;
+        stack<pair<int, int>> s;
+        int pseudoindex = n;
+
+        for (int i = n - 1; i >= 0; i--) {
+            if (s.size() == 0) {
+                right.push_back(pseudoindex);
+            }
+            else if (s.size() > 0 && s.top().first < arr[i]) {
+                right.push_back(s.top().second);
+            }
+            else if (s.size() > 0 && s.top().first >= arr[i]) {
+                while (s.size() > 0 && s.top().first >= arr[i]) {
+                    s.pop();
+                }
+                if (s.size() == 0) {
+                    right.push_back(pseudoindex);
+                } else {
+                    right.push_back(s.top().second);
+                }
+            }
+            s.push({arr[i], i});
         }
-        int ans=0;
-        for(int i=0; i<n; i++)
-            ans=max(ans,heights[i]*(Right[i]-Left[i]-1));
-            return ans;
+        reverse(right.begin(), right.end());
+        return right;
+    }
+    int largestRectangleArea(vector<int>& arr) {
+    int n = arr.size();
+        vector<long> NSL = NearestSmallLeft(arr);
+        vector<long> NSR = NearestSmallRight(arr);
+        long long maxArea = 0;
+
+        for (int i = 0; i < n; i++) {
+            maxArea = max(maxArea, (long long)arr[i] * (NSR[i] - NSL[i] - 1));
+        }
+        return maxArea;
     }
 };
