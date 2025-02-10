@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/saumyap48/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/saumyap48/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/saumyap48/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/saumyap48/leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/saumyap48/leetcode/tree/master/3451-string-compression-iii) |
 | [3636-check-balanced-string](https://github.com/saumyap48/leetcode/tree/master/3636-check-balanced-string) |
 ## Stack
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/saumyap48/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/saumyap48/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/saumyap48/leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [3447-clear-digits](https://github.com/saumyap48/leetcode/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -232,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/saumyap48/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/saumyap48/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2728-sum-in-a-matrix](https://github.com/saumyap48/leetcode/tree/master/2728-sum-in-a-matrix) |
+| [3447-clear-digits](https://github.com/saumyap48/leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/saumyap48/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
