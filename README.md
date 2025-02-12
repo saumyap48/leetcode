@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1028-interval-list-intersections](https://github.com/saumyap48/leetcode/tree/master/1028-interval-list-intersections) |
 | [1034-subarrays-with-k-different-integers](https://github.com/saumyap48/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/saumyap48/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/saumyap48/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/saumyap48/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1222-remove-covered-intervals](https://github.com/saumyap48/leetcode/tree/master/1222-remove-covered-intervals) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/saumyap48/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/saumyap48/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/saumyap48/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/saumyap48/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/saumyap48/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/saumyap48/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/saumyap48/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saumyap48/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
