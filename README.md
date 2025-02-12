@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0686-repeated-string-match](https://github.com/saumyap48/leetcode/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/saumyap48/leetcode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/saumyap48/leetcode/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/saumyap48/leetcode/tree/master/0886-score-of-parentheses) |
 | [0952-word-subsets](https://github.com/saumyap48/leetcode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saumyap48/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/saumyap48/leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/saumyap48/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/saumyap48/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/saumyap48/leetcode/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/saumyap48/leetcode/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/saumyap48/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/saumyap48/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/saumyap48/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
