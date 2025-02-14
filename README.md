@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2227-sum-of-subarray-ranges](https://github.com/saumyap48/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/saumyap48/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/saumyap48/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/saumyap48/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/saumyap48/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/saumyap48/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/saumyap48/leetcode/tree/master/2465-shifting-letters-ii) |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/saumyap48/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/saumyap48/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/saumyap48/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/saumyap48/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/saumyap48/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2728-sum-in-a-matrix](https://github.com/saumyap48/leetcode/tree/master/2728-sum-in-a-matrix) |
@@ -464,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-construct-k-palindrome-strings](https://github.com/saumyap48/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saumyap48/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2300-construct-string-with-repeat-limit](https://github.com/saumyap48/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/saumyap48/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/saumyap48/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Bit Manipulation
 |  |
