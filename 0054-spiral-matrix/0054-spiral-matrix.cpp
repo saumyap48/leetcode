@@ -1,38 +1,37 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& mat) {
-        vector<int>ans;
-        int row=mat.size(); //no of rows
-        int col=mat[0].size();  //no of columns
-        int count=0;
-        int total=row*col;
-        int startingRow=0;
-        int startingCol=0;
-        int endingRow=row-1;
-        int endingCol=col-1;
-       while(count<total){
-      //printing starting row;
-      for(int index=startingCol; count<total && index<=endingCol; index++){
-        ans.push_back(mat[startingRow][index]);
+        vector<int>answer;
+       int m=mat.size();
+       int n=mat[0].size();
+       int totalcount=m*n;
+       int minr=0;
+       int maxr=m-1;
+       int minc=0;
+       int maxc=n-1;
+       int count=0;
+       while(count<totalcount){
+        for(int i=minc; i<=maxc && count<totalcount; i++){
+        answer.push_back(mat[minr][i]);
         count++;
-      }
-      startingRow++;
-            for(int index=startingRow; count<total && index<=endingRow; index++){
-        ans.push_back(mat[index][endingCol]);
+        }
+        minr++;
+        for(int i=minr; i<=maxr&& count<totalcount; i++){
+        answer.push_back(mat[i][maxc]);
         count++;
-      }
-      endingCol--;
-            for(int index=endingCol; count<total && index>=startingCol; index--){
-        ans.push_back(mat[endingRow][index]);
+        }
+        maxc--;
+        for(int i=maxc; i>=minc&& count<totalcount; i--){
+        answer.push_back(mat[maxr][i]);
         count++;
-      }
-      endingRow--;
-            for(int index=endingRow; count<total && index>=startingRow; index--){
-        ans.push_back(mat[index][startingCol]);
+        }
+       maxr--;
+       for(int i=maxr; i>=minr&& count<totalcount; i--){
+        answer.push_back(mat[i][minc]);
         count++;
-      }
-      startingCol++;
+        }
+        minc++;
        }
-       return ans;
+       return answer;
     }
 };
