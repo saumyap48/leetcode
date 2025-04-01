@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/saumyap48/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/saumyap48/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saumyap48/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0164-maximum-gap](https://github.com/saumyap48/leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saumyap48/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/saumyap48/leetcode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/saumyap48/leetcode/tree/master/0204-count-primes) |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/saumyap48/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/saumyap48/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/saumyap48/leetcode/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/saumyap48/leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/saumyap48/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saumyap48/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/saumyap48/leetcode/tree/master/0242-valid-anagram) |
@@ -727,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/saumyap48/leetcode/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/saumyap48/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/saumyap48/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Indexed Tree
@@ -745,4 +748,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/saumyap48/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/saumyap48/leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
