@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-maximum-ascending-subarray-sum](https://github.com/saumyap48/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1962-single-threaded-cpu](https://github.com/saumyap48/leetcode/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saumyap48/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2047-find-a-peak-element-ii](https://github.com/saumyap48/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2107-find-unique-binary-string](https://github.com/saumyap48/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/saumyap48/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saumyap48/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-kth-missing-positive-number](https://github.com/saumyap48/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/saumyap48/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saumyap48/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2047-find-a-peak-element-ii](https://github.com/saumyap48/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/saumyap48/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saumyap48/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saumyap48/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -283,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/saumyap48/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/saumyap48/leetcode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/saumyap48/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2047-find-a-peak-element-ii](https://github.com/saumyap48/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2728-sum-in-a-matrix](https://github.com/saumyap48/leetcode/tree/master/2728-sum-in-a-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/saumyap48/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
