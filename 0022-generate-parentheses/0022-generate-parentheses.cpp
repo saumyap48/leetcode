@@ -1,25 +1,20 @@
 class Solution {
 public:
-    void paren(int n,int left,int right,vector<string>&ans,string &temp){
-        if(left+right==2*n){
-            ans.push_back(temp);
+    void func(int open, int close, int n, string s, vector<string> &ans) {
+        if(open==close && (open+close)==2*n){
+            ans.push_back(s);
             return;
         }
-        if(left<n){
-            temp.push_back('(');
-            paren(n,left+1,right,ans,temp);
-            temp.pop_back();
+                if (open < n) {
+            func(open + 1, close, n, s + '(', ans); 
         }
-         if(right<left){
-            temp.push_back(')');
-            paren(n,left,right+1,ans,temp);
-            temp.pop_back();
+        if (close < open) {
+            func(open, close + 1, n, s + ')', ans); 
         }
-    }
+        }
     vector<string> generateParenthesis(int n) {
-        vector<string>ans;
-        string temp;
-        paren(n,0,0,ans,temp);
-        return ans;
+        vector<string>answer;
+        func(0,0,n,"",answer);
+        return answer;
     }
 };
