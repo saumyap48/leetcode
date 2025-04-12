@@ -1,22 +1,26 @@
 class Solution {
 public:
-    void backtrack(int start,int target,int n,vector<int> &combination,vector<vector<int>> &res){
-        if(combination.size()==n){
-            if(target==0){
-                res.push_back(combination);
-            }
+    void func(int sum,int last,vector<int>&nums,int k,vector<vector<int>>&answer){
+        if(sum==0 &&nums.size()==k){
+            answer.push_back(nums);
             return;
         }
-        for(int i=start;i<10;i++){
-            combination.push_back(i);
-            backtrack(i+1,target-i,n,combination,res);
-            combination.pop_back();
+        if(sum<=0 || nums.size()>k)return ;
+        for(int i=last; i<=9; i++){
+            if(i<=sum){
+                nums.push_back(i);
+                func(sum-i,i+1,nums,k,answer);
+                nums.pop_back();
+            }else{
+                break;
+            }
         }
     }
-    vector<vector<int>> combinationSum3(int n, int target) {
-        vector<int> combination;
-        vector<vector<int>> res;
-        backtrack(1,target,n,combination,res);
-        return res;
+    vector<vector<int>> combinationSum3(int k, int n) {
+        vector<vector<int>>answer;
+        vector<int>nums;
+        func(n,1,nums,k,answer);
+        return answer;
     }
+
 };
