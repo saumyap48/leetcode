@@ -434,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/saumyap48/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/saumyap48/leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/saumyap48/leetcode/tree/master/0443-string-compression) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/saumyap48/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/saumyap48/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/saumyap48/leetcode/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/saumyap48/leetcode/tree/master/0874-backspace-string-compare) |
@@ -663,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/saumyap48/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/saumyap48/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saumyap48/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/saumyap48/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/saumyap48/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Monotonic Stack
 |  |
