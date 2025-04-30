@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/saumyap48/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/saumyap48/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/saumyap48/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/saumyap48/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/saumyap48/leetcode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/saumyap48/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/saumyap48/leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -350,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/saumyap48/leetcode/tree/master/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/saumyap48/leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/saumyap48/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/saumyap48/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/saumyap48/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/saumyap48/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/saumyap48/leetcode/tree/master/2032-largest-odd-number-in-string) |
