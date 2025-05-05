@@ -331,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/saumyap48/leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/saumyap48/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saumyap48/leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/saumyap48/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/saumyap48/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/saumyap48/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/saumyap48/leetcode/tree/master/0069-sqrtx) |
@@ -611,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/saumyap48/leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/saumyap48/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/saumyap48/leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/saumyap48/leetcode/tree/master/0137-single-number-ii) |
