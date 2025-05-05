@@ -1,17 +1,17 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        unordered_set<int> s;
-        for(int i:nums){
-            if(s.find(i)==s.end())
-                s.insert(i);
-                else 
-                s.erase(i);
+       vector<int>answer;
+            unordered_map<int,int>mp;
+            for(int i=0; i<nums.size(); i++){
+             mp[nums[i]]++;
+        }
+        for(auto it:mp){
+            if(it.second==1){
+                answer.push_back(it.first);
             }
-            vector<int>ans;
-            for(int it: s){
-                ans.push_back(it);
-            }
-            return ans;
-    }
+        }
+        sort(answer.begin(),answer.end());
+        return answer;
+        }
 };
