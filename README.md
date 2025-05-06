@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1962-single-threaded-cpu](https://github.com/saumyap48/leetcode/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saumyap48/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/saumyap48/leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2048-build-array-from-permutation](https://github.com/saumyap48/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/saumyap48/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/saumyap48/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saumyap48/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/saumyap48/leetcode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/saumyap48/leetcode/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/saumyap48/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/saumyap48/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2195-time-needed-to-buy-tickets](https://github.com/saumyap48/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/saumyap48/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/saumyap48/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
