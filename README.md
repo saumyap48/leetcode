@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2179-most-beautiful-item-for-each-query](https://github.com/saumyap48/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/saumyap48/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2195-time-needed-to-buy-tickets](https://github.com/saumyap48/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2215-finding-3-digit-even-numbers](https://github.com/saumyap48/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2227-sum-of-subarray-ranges](https://github.com/saumyap48/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/saumyap48/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/saumyap48/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saumyap48/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-sorting-the-sentence](https://github.com/saumyap48/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/saumyap48/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2215-finding-3-digit-even-numbers](https://github.com/saumyap48/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/saumyap48/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/saumyap48/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saumyap48/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -507,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/saumyap48/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saumyap48/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2107-find-unique-binary-string](https://github.com/saumyap48/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2215-finding-3-digit-even-numbers](https://github.com/saumyap48/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2300-construct-string-with-repeat-limit](https://github.com/saumyap48/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/saumyap48/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/saumyap48/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -749,6 +752,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0204-count-primes](https://github.com/saumyap48/leetcode/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/saumyap48/leetcode/tree/master/2083-three-divisors) |
+| [2215-finding-3-digit-even-numbers](https://github.com/saumyap48/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Rolling Hash
 |  |
 | ------- |
