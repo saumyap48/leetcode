@@ -14,7 +14,7 @@ public:
                 
                 for(int i=0; i<25; i++)
                 maxfreq=max(maxfreq,hash[i]);
-                l=l+1;
+                l++;
             }
             if((r-l+1)-maxfreq<=k)
             maxlength=max(maxlength,r-l+1);
