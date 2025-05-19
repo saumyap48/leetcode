@@ -12,7 +12,7 @@ public:
             if((r-l+1)-maxfreq>k){
                 hash[s[l]-'A']--;
                 
-                for(int i=0; i<26; i++)
+                for(int i=0; i<0; i++)
                 maxfreq=max(maxfreq,hash[i]);
                 l++;
             }
