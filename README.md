@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/saumyap48/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/saumyap48/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/saumyap48/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/saumyap48/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/saumyap48/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/saumyap48/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/saumyap48/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/saumyap48/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/saumyap48/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/saumyap48/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/saumyap48/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/saumyap48/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/saumyap48/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saumyap48/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/saumyap48/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/saumyap48/leetcode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/saumyap48/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/saumyap48/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/saumyap48/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1962-single-threaded-cpu](https://github.com/saumyap48/leetcode/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/saumyap48/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -467,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0908-middle-of-the-linked-list](https://github.com/saumyap48/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1028-interval-list-intersections](https://github.com/saumyap48/leetcode/tree/master/1028-interval-list-intersections) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/saumyap48/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/saumyap48/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/saumyap48/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/saumyap48/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/saumyap48/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
