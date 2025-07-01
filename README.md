@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/saumyap48/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/saumyap48/leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/saumyap48/leetcode/tree/master/3451-string-compression-iii) |
+| [3617-find-the-original-typed-string-i](https://github.com/saumyap48/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/saumyap48/leetcode/tree/master/3636-check-balanced-string) |
 ## Stack
 |  |
