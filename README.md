@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saumyap48/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saumyap48/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/saumyap48/leetcode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/saumyap48/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/saumyap48/leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/saumyap48/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/saumyap48/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -396,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/saumyap48/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/saumyap48/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/saumyap48/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/saumyap48/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/saumyap48/leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/saumyap48/leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/saumyap48/leetcode/tree/master/0179-largest-number) |
@@ -459,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/saumyap48/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saumyap48/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saumyap48/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/saumyap48/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/saumyap48/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/saumyap48/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saumyap48/leetcode/tree/master/0142-linked-list-cycle-ii) |
