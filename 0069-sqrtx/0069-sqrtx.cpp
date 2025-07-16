@@ -3,9 +3,9 @@ public:
     int mySqrt(int x) {
         int s=0;
         int e=x;
-        long long int mid=s+(e-s)/2;
         int answer=-1;
         while(s<=e){
+        long long int mid=s+(e-s)/2;
             if(mid*mid==x){
                 return mid;
                 break;
@@ -17,7 +17,6 @@ public:
             else{
                 e=mid-1;
             }
-            mid=s+(e-s)/2;
         }
         return answer;
     }
