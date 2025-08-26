@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0216-combination-sum-iii](https://github.com/saumyap48/leetcode/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/saumyap48/leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/saumyap48/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/saumyap48/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saumyap48/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/saumyap48/leetcode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/saumyap48/leetcode/tree/master/0274-h-index) |
@@ -454,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/saumyap48/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/saumyap48/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/saumyap48/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/saumyap48/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/saumyap48/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -595,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/saumyap48/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/saumyap48/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/saumyap48/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/saumyap48/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/saumyap48/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/saumyap48/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/saumyap48/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -791,6 +794,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/saumyap48/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/saumyap48/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/saumyap48/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/saumyap48/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2195-time-needed-to-buy-tickets](https://github.com/saumyap48/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2868-continuous-subarrays](https://github.com/saumyap48/leetcode/tree/master/2868-continuous-subarrays) |
@@ -808,6 +812,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/saumyap48/leetcode/tree/master/0239-sliding-window-maximum) |
 | [2868-continuous-subarrays](https://github.com/saumyap48/leetcode/tree/master/2868-continuous-subarrays) |
 ## Enumeration
 |  |
