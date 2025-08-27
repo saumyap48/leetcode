@@ -1,70 +1,102 @@
 class Solution {
+private:
+    /* Function to find the indices of 
+    next smaller elements */
+    vector<int> findNSE(vector<int> &arr) {
+        
+        // Size of array
+        int n = arr.size();
+        
+        // To store the answer
+        vector<int> ans(n);
+        
+        // Stack 
+        stack<int> st;
+        
+        // Start traversing from the back
+        for(int i = n - 1; i >= 0; i--) {
+            
+            // Get the current element
+            int currEle = arr[i];
+         
+            while(!st.empty() && arr[st.top()] >= arr[i]){
+                st.pop();
+            }
+            
+            // Update the answer
+            ans[i] = !st.empty() ? st.top() : n;
+            
+            /* Push the index of current 
+            element in the stack */
+            st.push(i);
+        }
+        
+        // Return the answer
+        return ans;
+    }
+    
+    /* Function to find the indices of 
+    previous smaller elements */
+    vector<int> findPSE(vector<int> &arr) {
+        
+        // Size of array
+        int n = arr.size();
+        
+        // To store the answer
+        vector<int> ans(n);
+        
+        // Stack 
+        stack<int> st;
+        
+        // Traverse on the array
+        for(int i=0; i < n; i++) {
+            
+            // Get the current element
+            int currEle = arr[i];
+            
+          
+            while(!st.empty() && arr[st.top()] >= arr[i]){
+                st.pop();
+            }
+            
+            // Update the answer
+            ans[i] = !st.empty() ? st.top() : -1;
+            
+           
+            st.push(i);
+        }
+        
+        // Return the answer
+        return ans;
+    }
+    
 public:
-    vector<long> NearestSmallLeft(vector<int>& arr) {
-        int n = arr.size();
-        vector<long> left;
-        stack<pair<int, int>> s;
-        int pseudoindex = -1;
-
-        for (int i = 0; i < n; i++) {
-            if (s.size() == 0) {
-                left.push_back(pseudoindex);
-            }
-            else if (s.size() > 0 && s.top().first < arr[i]) {
-                left.push_back(s.top().second);
-            }
-            else if (s.size() > 0 && s.top().first >= arr[i]) {
-                while (s.size() > 0 && s.top().first >= arr[i]) {
-                    s.pop();
-                }
-                if (s.size() == 0) {
-                    left.push_back(pseudoindex);
-                } else {
-                    left.push_back(s.top().second);
-                }
-            }
-            s.push({arr[i], i});
+    
+    // Function to find the largest rectangle area
+    int largestRectangleArea(vector<int> &heights) {
+        
+        /* Determine the next and 
+        previous smaller elements */
+        vector<int> nse = findNSE(heights);
+        vector<int> pse = findPSE(heights);
+        
+        // To store largest area
+        int largestArea = 0;
+        
+        // To store current area
+        int area;
+        
+        // Traverse on the array
+        for(int i=0; i < heights.size(); i++) {
+            
+            // Calculate current area
+            area = heights[i] * (nse[i] - pse[i] - 1);
+            
+        
+            largestArea = max(largestArea, area);
         }
-        return left;
-    }
-
-    vector<long> NearestSmallRight(vector<int>& arr) {
-        int n = arr.size();
-        vector<long> right;
-        stack<pair<int, int>> s;
-        int pseudoindex = n;
-
-        for (int i = n - 1; i >= 0; i--) {
-            if (s.size() == 0) {
-                right.push_back(pseudoindex);
-            }
-            else if (s.size() > 0 && s.top().first < arr[i]) {
-                right.push_back(s.top().second);
-            }
-            else if (s.size() > 0 && s.top().first >= arr[i]) {
-                while (s.size() > 0 && s.top().first >= arr[i]) {
-                    s.pop();
-                }
-                if (s.size() == 0) {
-                    right.push_back(pseudoindex);
-                } else {
-                    right.push_back(s.top().second);
-                }
-            }
-            s.push({arr[i], i});
-        }
-        reverse(right.begin(), right.end());
-        return right;
-    }
-    int largestRectangleArea(vector<int>& arr) {
-    int n = arr.size();
-        vector<long> NSL = NearestSmallLeft(arr);
-        vector<long> NSR = NearestSmallRight(arr);
-        long long maxArea = 0;
-
-        for (int i = 0; i < n; i++) {
-            maxArea = max(maxArea, (long long)arr[i] * (NSR[i] - NSL[i] - 1));
-        }
-        return maxArea;
+        
+       
+        return largestArea;
     }
 };
