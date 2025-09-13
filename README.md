@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3451-string-compression-iii](https://github.com/saumyap48/leetcode/tree/master/3451-string-compression-iii) |
 | [3617-find-the-original-typed-string-i](https://github.com/saumyap48/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/saumyap48/leetcode/tree/master/3636-check-balanced-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/saumyap48/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -572,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/saumyap48/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/saumyap48/leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/saumyap48/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/saumyap48/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
 | ------- |
@@ -657,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/saumyap48/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saumyap48/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/saumyap48/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/saumyap48/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
