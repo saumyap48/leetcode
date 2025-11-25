@@ -396,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0790-global-and-local-inversions](https://github.com/saumyap48/leetcode/tree/master/0790-global-and-local-inversions) |
 | [0805-escape-the-ghosts](https://github.com/saumyap48/leetcode/tree/master/0805-escape-the-ghosts) |
 | [1013-fibonacci-number](https://github.com/saumyap48/leetcode/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/saumyap48/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/saumyap48/leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/saumyap48/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saumyap48/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/saumyap48/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/saumyap48/leetcode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/saumyap48/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/saumyap48/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/saumyap48/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/saumyap48/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/saumyap48/leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
